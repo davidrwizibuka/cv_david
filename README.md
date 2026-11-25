@@ -1,15 +1,10 @@
-<<<<<<< HEAD
 # CV Flutter de David
 
-=======
-# cv_david
->>>>>>> d149a715d63b812119916d4a1895b8cf14ba2efd
 <img width="818" height="505" alt="Capture d&#39;écran 2026-11-19 151215" src="https://github.com/user-attachments/assets/540e3e1b-fd7b-4388-8759-b84aed68ee9d" />
 <img width="799" height="500" alt="Capture d&#39;écran 2026-11-19 151159" src="https://github.com/user-attachments/assets/4c0d769b-91a0-43ab-91ad-93dd3b811c23" />
 <img width="886" height="500" alt="Capture d&#39;écran 2026-11-19 151136" src="https://github.com/user-attachments/assets/a5c3dcec-0a15-49bb-bc4c-a115d9442ec6" />
 <img width="829" height="500" alt="Capture d&#39;écran 2026-11-19 145959" src="https://github.com/user-attachments/assets/e4f53e6e-c54a-48d2-80b1-33bcd031e1b4" />
 
-<<<<<<< HEAD
 Application Flutter du TP2 : connexion vérifiée par l'API REST et gestion dynamique des membres de famille enregistrés dans MySQL.
 
 ## Démarrer l'API locale
@@ -45,19 +40,3 @@ Sur un téléphone physique, remplacer `10.0.2.2` par l'adresse IP locale du PC 
 - Actualisation après chaque opération pour afficher les données conservées par MySQL.
 
 L'API fournie vérifie les identifiants au login, mais ses routes membres ne sont pas protégées par une session ou un jeton. Les opérations CRUD utilisent donc directement les routes REST décrites par l'API.
-=======
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> d149a715d63b812119916d4a1895b8cf14ba2efd
