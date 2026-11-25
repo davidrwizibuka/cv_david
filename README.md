@@ -40,3 +40,8 @@ Sur un téléphone physique, remplacer `10.0.2.2` par l'adresse IP locale du PC 
 - Actualisation après chaque opération pour afficher les données conservées par MySQL.
 
 L'API fournie vérifie les identifiants au login, mais ses routes membres ne sont pas protégées par une session ou un jeton. Les opérations CRUD utilisent donc directement les routes REST décrites par l'API.
+
+
+
+VOILA Le lien de video de mon tp monsieur https://youtu.be/LjtGLaHVJyI
+
